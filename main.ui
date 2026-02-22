@@ -18,23 +18,23 @@
     <item>
      <layout class="QVBoxLayout" name="verticalLayout">
       <item>
-       <widget class="QPushButton" name="pushButton_2">
+       <widget class="QPushButton" name="add_btn">
         <property name="text">
-         <string>PushButton</string>
+         <string>Добавить</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_3">
+       <widget class="QPushButton" name="delete_btn">
         <property name="text">
-         <string>PushButton</string>
+         <string>Удалить</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="edit_btn">
         <property name="text">
-         <string>PushButton</string>
+         <string>Изменить</string>
         </property>
        </widget>
       </item>
